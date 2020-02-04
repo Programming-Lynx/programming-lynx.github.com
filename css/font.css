@@ -1,0 +1,13 @@
+@font-face {
+	font-family: freeMono;
+	src: url("FreeMono.ttf");
+}
+body {
+	font-family: freeMono;
+}
+header * {
+	font-family: freeMono;
+}
+main {
+	font-family: freeMono;
+}
